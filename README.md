@@ -1,4 +1,4 @@
-# Downloading-Amazon-Products-Images
+# Downloading-Amazon-Product-Images
 Bot for downloading images of products at Amazon.com by SKU
 
 It uses the Crawler lib https://github.com/bda-research/node-crawler
