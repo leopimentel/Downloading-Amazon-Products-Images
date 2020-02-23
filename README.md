@@ -1,10 +1,14 @@
 # Downloading-Amazon-Products-Images
 Bot for downloading images of products at Amazon.com by SKU
 
-It uses Crawler lib https://github.com/bda-research/node-crawler
+It uses the Crawler lib https://github.com/bda-research/node-crawler
 
 Just modify the file product_skus.json with your own skus. And run:
 
+```
+node install
+
 node index.js
+```
 
 By default downloaded images will be stored in images folder
