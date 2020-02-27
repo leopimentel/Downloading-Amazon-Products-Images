@@ -6,7 +6,7 @@ It uses the Crawler lib https://github.com/bda-research/node-crawler
 Just modify the file product_skus.json with your own skus. And run:
 
 ```
-node install
+npm install
 
 node index.js
 ```
